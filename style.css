@@ -39,8 +39,9 @@ p {
   font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
   border-radius: 6px;
   border: none;
-  margin: -120px 0px;
-
+  position:absolute;
+  top:0;
+  left:0;
 
   color: #fff;
   background: linear-gradient(180deg, #E8E9EB 0%, #808080 100%);
